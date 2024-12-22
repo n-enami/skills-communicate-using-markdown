@@ -4,3 +4,5 @@
 #### 大きさ４
 ##### 大きさ５
 ###### 大きさ６
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
